@@ -60,10 +60,7 @@ function App() {
       ...personTime,
       busyTime: [...cloneBusyTime],
     });
-    // setPersonTime({
-    //   ...personTime,
-    //   busyTime: [{ ...personTime.busyTime[index], [target]: time }],
-    // });
+   
   };
 
   const addBusyTime = () => {
