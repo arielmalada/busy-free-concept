@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/busy-free-concept/static/css/main.3bec8b04.css",
+    "main.js": "/busy-free-concept/static/js/main.3b249822.js",
+    "static/js/787.eaad36ba.chunk.js": "/busy-free-concept/static/js/787.eaad36ba.chunk.js",
+    "index.html": "/busy-free-concept/index.html",
+    "main.3bec8b04.css.map": "/busy-free-concept/static/css/main.3bec8b04.css.map",
+    "main.3b249822.js.map": "/busy-free-concept/static/js/main.3b249822.js.map",
+    "787.eaad36ba.chunk.js.map": "/busy-free-concept/static/js/787.eaad36ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bec8b04.css",
+    "static/js/main.3b249822.js"
+  ]
+}
